@@ -1,10 +1,14 @@
-# 02 Advanced CSS Challenge
+# My Portfolio
 
-* [Description](#Description)
-* [User Story](#User-Story)
-* [Wireframes](#Wireframes)
-* [Responsive Functionality](#Responsive-Functionality)
-* [Acceptance Criteria](#Acceptance-Criteria)
+- [My Portfolio](#my-portfolio)
+  - [Description](#description)
+  - [User Story](#user-story)
+  - [Wireframes](#wireframes)
+    - [Mobile Vs Desktop layout](#mobile-vs-desktop-layout)
+    - [Portfolio grid demo](#portfolio-grid-demo)
+  - [Responsive Functionality](#responsive-functionality)
+    - [Responsive Layout Breakpoints](#responsive-layout-breakpoints)
+  - [Acceptance Criteria](#acceptance-criteria)
 
 ## Description
 Professional portfolio to showcase my full-stack projects. Scropp down for user stor, wireframes, and acceptance criteria.
